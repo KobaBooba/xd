@@ -9,9 +9,9 @@ export default function Header() {
   </div>
   <div className="flex flex-row lg:flex-row lg:gap-x-12 w-full lg:w-auto justify-center items-center space-x-4">
     <a href="/" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Inicio</a>
-    <a href="/infografias" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Infografias</a>
-    <a href="/analisis" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Analisis</a>
-    <a href="/webgrafia" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Webgrafia</a>
+    <a href="/infografias" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Infografía</a>
+    <a href="/analisis" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Análisis</a>
+    <a href="/webgrafia" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Webgrafía</a>
   </div>
   <div className="hidden lg:flex lg:flex-1 lg:justify-end">
   </div>
