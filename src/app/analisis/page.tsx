@@ -17,7 +17,7 @@ export default function HomePage() {
     };
   
     return (
-        <div className="min-h-screen bg-gray-100">
+        <div className="min-h-screen bg-gray-100 text-white">
           <Header />
           <div className="relative h-screen bg-center bg-cover" style={{ backgroundImage: `url('/bg.png')` }}>
             <div className="absolute inset-0 bg-slate-500 opacity-70" /> {/* Added this line */}
