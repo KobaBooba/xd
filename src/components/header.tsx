@@ -7,7 +7,7 @@ export default function Header() {
       <img className="h-8 w-auto" src="https://cdn-icons-png.flaticon.com/512/3081/3081530.png" alt="Logo"/>
     </a>
   </div>
-  <div className="flex flex-row lg:flex-row lg:gap-x-12 w-full lg:w-auto justify-center items-center space-x-4">
+  <div className=" text-white flex flex-row lg:flex-row lg:gap-x-12 w-full lg:w-auto justify-center items-center space-x-4">
     <a href="/" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Inicio</a>
     <a href="/infografias" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Infografía</a>
     <a href="/analisis" className="text-sm font-semibold leading-6 mb-2 lg:mb-0">Análisis</a>
