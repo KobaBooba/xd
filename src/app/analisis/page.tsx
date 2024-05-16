@@ -23,7 +23,7 @@ export default function HomePage() {
             <div className="absolute inset-0 bg-slate-500 opacity-70" /> {/* Added this line */}
             <div className="absolute inset-0 flex flex-col items-center justify-center"> {/* Modified this line */}
   <div className="flex flex-col items-center justify-center w-full  pt-5 "> {/* Modified this line */}
-    <h1 className="text-2xl font-bold mb-2">Análisis</h1> {/* Added this line */}
+    <h1 className="text-2xl font-bold mb-2 text-white">Análisis</h1> {/* Added this line */}
     <iframe 
   className="w-full sm:w-64 md:w-96" // Ajusta el ancho del video dependiendo del tamaño de la pantalla
   height="235" 
@@ -33,7 +33,7 @@ export default function HomePage() {
 ></iframe>
   </div>
   <div className="flex flex-col items-center justify-center w-full p-8"> {/* Modified this line */}
-    <h1 className="text-2xl  font-extrabold">¿Cómo se hacen los vidrios?</h1> {/* Moved this line */}
+    <h1 className="text-2xl  font-extrabold text-white">¿Cómo se hacen los vidrios?</h1> {/* Moved this line */}
     <img 
       src="/1.png" 
       alt="" 
