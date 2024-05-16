@@ -30,10 +30,10 @@ export default function HomePage() {
   <div className="relative h-screen w-screen bg-center bg-cover" style={{ backgroundImage: `url('/bg.png')` }}>
     <div className="absolute inset-0 bg-slate-500 opacity-70"></div>
     <div className="relative flex flex-col items-center w-full h-full p-8">
-      <h1 className="text-2xl font-bold mb-4">Infografías</h1>
+      <h1 className="text-2xl font-bold mb-4 text-white">Infografías</h1>
       <div className="flex flex-row justify-center w-full">
         <div className="flex flex-col items-center w-1/2 p-8">
-          <h2 className="mb-4 text-xl text-white font-extrabold">La ley de conservación de la materia</h2>
+          <h2 className="mb-4 text-xl text-white font-extrabold text-white">La ley de conservación de la materia</h2>
           <img 
             src="/2.png" 
             alt="" 
