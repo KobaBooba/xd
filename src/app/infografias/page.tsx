@@ -33,7 +33,7 @@ export default function HomePage() {
       <h1 className="text-2xl font-bold mb-4 text-white">Infografías</h1>
       <div className="flex flex-row justify-center w-full">
         <div className="flex flex-col items-center w-1/2 p-8">
-          <h2 className="mb-4 text-xl text-white font-extrabold text-white">La ley de conservación de la materia</h2>
+          <h2 className="mb-4 text-xl  font-extrabold text-white">La ley de conservación de la materia</h2>
           <img 
             src="/2.png" 
             alt="" 

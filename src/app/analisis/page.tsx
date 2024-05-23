@@ -30,7 +30,7 @@ const Page = () => {
         <div className="relative flex flex-col items-center w-full h-full p-8">
           <div className="flex flex-row items-center justify-center">
             <div className="flex flex-col items-center mr-16">
-              <h1 className="text-2xl font-extrabold pt-5">Infografía</h1>
+              <h1 className="text-white text-2xl font-extrabold pt-5">Infografía</h1>
               <img
                 src="/1.png"
                 alt=""
@@ -42,7 +42,7 @@ const Page = () => {
               </Modal>
             </div>
             <div className="flex flex-col items-center justify-center">
-              <h1 className="text-2xl font-bold mb-2 justify-center">Análisis</h1>
+              <h1 className="text-white text-2xl font-bold mb-2 justify-center">Análisis</h1>
               <img 
                 src="/5.png"
                 alt=""
@@ -54,7 +54,7 @@ const Page = () => {
               </Modal>
             </div>
           </div>
-          <h1 className=" pt-5 text-2xl font-bold mb-2 justify-center">Video</h1>
+          <h1 className=" text-white pt-5 text-2xl font-bold mb-2 justify-center">Video</h1>
           <iframe 
             src="https://www.youtube.com/embed/f9bix7MlQhg" 
             title="YouTube video player" 
